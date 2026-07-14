@@ -3,3 +3,9 @@ Git name : qa-tester-not-real-account
 mail : o.harrissonpub@gmail.com
 
 Idea for my capstone project is to find the optimal location to implement a new private security business in Los Angeles, CA.
+
+__________________
+
+New changes made by qa-tester-not-real-account
+
+I don't have any capstone project as I'm just a fake account created for this exercice.
